@@ -18,12 +18,12 @@ const PLACEHOLDER_IMG =
   );
 
 const PRODUCTS = [
-  { id: "chickenSamosa", name: "Chicken Samosa", description: "Frozen and filled with juicy chicken", price: 12, veg: false, image: '/img/chickenSamosa.png' },
-  { id: "shamikebab", name: "Shami Kebabs", description: "Frozen Chicken Shami Kebab", price: 10, veg: false, image: '/img/shamiKebab.png' },
-  { id: "seekhKebab", name: "Seekh Kebab", description: "Frozen Seekh Kebab", price: 20, veg: false, image: '/img/seekhKebab.png' },
-  { id: "chickenStick", name: "Chicken Stick", description: "Frozen Chicken Stick", price: 20, veg: false, image: '/img/chickenSticks.png' },
-  { id: "russianCutlet", name: "Russian Cutlet", description: "Frozen Russian Cutlet which contains chicken, mashed potatos and veggies", price: 10, veg: false, image: '/img/russianCutlets.png' },
-  { id: "doughnut", name: "Doughnut", description: "Freshly made Chocolate Doughnuts", price: 20, veg: false, image: '/img/doughnuts.png' },
+  { id: "chickenSamosa", name: "Chicken Samosa", description: "Frozen and filled with juicy chicken", price: 12, veg: false, image: '/img/chickenSamosa.jpg' },
+  { id: "shamikebab", name: "Shami Kebabs", description: "Frozen Chicken Shami Kebab", price: 10, veg: false, image: '/img/shamiKebab.jpg' },
+  { id: "seekhKebab", name: "Seekh Kebab", description: "Frozen Seekh Kebab", price: 20, veg: false, image: '/img/seekhKebab.jpg' },
+  { id: "chickenStick", name: "Chicken Stick", description: "Frozen Chicken Stick", price: 20, veg: false, image: '/img/chickenSticks.jpg' },
+  { id: "russianCutlet", name: "Russian Cutlet", description: "Frozen Russian Cutlet which contains chicken, mashed potatos and veggies", price: 10, veg: false, image: '/img/russianCutlets.jpg' },
+  { id: "doughnut", name: "Doughnut", description: "Freshly made Chocolate Doughnuts", price: 20, veg: false, image: '/img/doughnuts.jpg' },
   // { id: "", name: "Punjabi Aloo Tikki", description: "Mashed potato patties with roasted cumin, green chilli and coriander. 8 pcs.", price: 99, veg: true, image: PLACEHOLDER_IMG },
   // { id: "galouti", name: "Lucknowi Galouti Kebab", description: "Melt-in-mouth minced mutton kebabs slow-cooked with 24 spices. Pack of 8.", price: 349, veg: false, image: PLACEHOLDER_IMG },
 ];
