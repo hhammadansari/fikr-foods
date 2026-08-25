@@ -20,12 +20,12 @@ const PLACEHOLDER_IMG =
 const PRODUCTS = [
   { id: "chickenBiryani", name: "Awadhi Chicken Biryani", description: "Fresh, juicy chicken layered with fragrant rice, aromatic spices, caramelized onions, cooked to perfection for a rich, irresistible burst of flavor in every bite (Price per kg)", price: 250, veg: false, image: '/img/chickenBiryani.jpg' },
   { id: "chickenSamosa", name: "Chicken Samosa", description: "Frozen and filled with juicy chicken", price: 12, veg: false, image: '/img/chickenSamosa.jpg' },
+  { id: "chickenSamoli", name: "Chicken Samoli", description: "Freshly Baked Samoli filled with juicy chicken (Minimum Order: 6)", price: 20, veg: false, image: '/img/chickenSamoli.jpg' },
   { id: "shamikebab", name: "Shami Kebabs", description: "Frozen Chicken Shami Kebab", price: 10, veg: false, image: '/img/shamiKebab.jpg' },
   { id: "seekhKebab", name: "Seekh Kebab", description: "Frozen Seekh Kebab", price: 20, veg: false, image: '/img/seekhKebab.jpg' },
   { id: "chickenStick", name: "Chicken Stick", description: "Frozen Chicken Stick", price: 20, veg: false, image: '/img/chickenSticks.jpg' },
   { id: "russianCutlet", name: "Russian Cutlet", description: "Frozen Russian Cutlet which contains chicken, mashed potatos and veggies", price: 10, veg: false, image: '/img/russianCutlets.jpg' },
   { id: "doughnut", name: "Doughnut", description: "Freshly made Chocolate Doughnuts", price: 20, veg: false, image: '/img/doughnuts.jpg' },
-  // { id: "galouti", name: "Lucknowi Galouti Kebab", description: "Melt-in-mouth minced mutton kebabs slow-cooked with 24 spices. Pack of 8.", price: 349, veg: false, image: PLACEHOLDER_IMG },
 ];
 
 const formatINR = (n) => `₹${n.toLocaleString("en-IN")}`;
