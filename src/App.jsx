@@ -25,7 +25,7 @@ const PRODUCTS = [
   { id: "seekhKebab", name: "Seekh Kebab", description: "Frozen Seekh Kebab", price: 20, veg: false, image: '/img/seekhKebab.jpg' },
   { id: "chickenStick", name: "Chicken Stick", description: "Frozen Chicken Stick", price: 20, veg: false, image: '/img/chickenSticks.jpg' },
   { id: "russianCutlet", name: "Russian Cutlet", description: "Frozen Russian Cutlet which contains chicken, mashed potatos and veggies", price: 10, veg: false, image: '/img/russianCutlets.jpg' },
-  { id: "doughnut", name: "Doughnut", description: "Freshly made Chocolate Doughnuts", price: 20, veg: false, image: '/img/doughnuts.jpg' },
+  { id: "doughnut", name: "Doughnut", description: "Freshly made Chocolate Doughnuts (Minimum Order: 6)", price: 20, veg: false, image: '/img/doughnuts.jpg' },
 ];
 
 const formatINR = (n) => `₹${n.toLocaleString("en-IN")}`;
