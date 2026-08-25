@@ -175,7 +175,7 @@ function MenuSection({ cart, setQty }) {
     <section id="menu" className="scroll-mt-52 pt-6 sm:pt-10 pb-10">
       <div className="mb-6">
         <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight">Menu</h2>
-        <p className="mt-1 text-sm text-black/60">Frozen, ready in minutes. Scroll to explore.</p>
+        <p className="mt-1 text-sm text-black/60">Scroll to explore</p>
       </div>
 
       <div className="flex flex-col gap-5">
