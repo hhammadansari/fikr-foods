@@ -1,6 +1,7 @@
+# Fikr Foods - Website Source Code
+
 ![Cloudflare Workers](https://img.shields.io/badge/deployed-Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/backend-Supabase-3ECF8E?logo=supabase&logoColor=white)
-# Fikr Foods - Website Source Code
 
 🔗 **[Live site](https://fikr.fikrfoods.workers.dev)**
 
